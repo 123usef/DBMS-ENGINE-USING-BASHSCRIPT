@@ -2,7 +2,8 @@
 bashscript used to to simulate database engine 
 #python full stack diploma
 #database engine using bash
-#student names : yousif mohamed ebrahim && ebram tooma
+#student names : yousif mohamed ebrahim 
+                Ebram Mounir Khalil Kamel Tooma
 #-------------------------------------------------------------
 #proj discreption :
 ----------------------
